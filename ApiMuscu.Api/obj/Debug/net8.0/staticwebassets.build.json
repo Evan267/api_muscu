@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bOWDhV5eY0UnwPSq4BqCi9QrZEtQTigVUr1ETNJnYlY=",
+  "Source": "ApiMuscu.Api",
+  "BasePath": "_content/ApiMuscu.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
